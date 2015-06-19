@@ -1,0 +1,19 @@
+First, a few external modules must be installed: praw, django and requests. If they are not already installed, simply run:
+
+pip install praw
+
+pip install django
+
+and
+
+pip install requests
+
+in the terminal. Note: easy_install may also be used.
+
+Make sure all the files are in the same directory and that the current working directory is set to that directory. Then, all you
+need to do is run the fact_sender.py file, as follows:
+
+python fact_sender.py
+
+The program will run and instructions on how to use program will appear in the terminal.
+
